@@ -1,6 +1,5 @@
 stroke one
 stroke two
 stroke three
-
-new text
-haha
+stroke four
+stroke five
