@@ -4,5 +4,3 @@ stroke three
 stroke four
 stroke five
 
-meow meow meow
-kuplet kuplet kuplet
