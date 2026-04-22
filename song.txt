@@ -3,3 +3,5 @@ stroke two
 stroke three
 stroke four
 stroke five
+
+kuplet kuple kuplet
